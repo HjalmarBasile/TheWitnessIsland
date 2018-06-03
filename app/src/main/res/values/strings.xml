@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">The Witness Island</string>
+    <string name="fragment_background">Fragment Background</string>
+    <string name="island_place_picture">Island Place Picture</string>
+    <string name="tools_text_island_place_name">Island Place Name</string>
+
+    <!-- Fragment categories -->
+    <string name="category_area">Areas</string>
+    <string name="category_puzzle">Puzzles</string>
+    <string name="category_art">Art</string>
+    <string name="category_obelisk">Obelisks</string>
+    
+    <!-- Island areas names -->
+    <string name="island_area_shady_trees_name">Shady Trees</string>
+    <string name="island_area_symmetry_name">Symmetry</string>
+    <string name="island_area_desert_ruin_name">Desert Ruin</string>
+    <string name="island_area_treehouse_name">Treehouse</string>
+    <string name="island_area_keep_name">Keep</string>
+    <string name="island_area_quarry_name">Quarry</string>
+    <string name="island_area_marsh_name">Marsh</string>
+    <string name="island_area_jungle_name">Jungle</string>
+    <string name="island_area_monastery_name">Monastery</string>
+    <string name="island_area_bunker_name">Bunker</string>
+    <string name="island_area_town_name">Town</string>
+
+    <!-- Island puzzles names -->
+    <string name="island_puzzle_dots">Dots</string>
+    <string name="island_puzzle_simmetry">Simmetry</string>
+    <string name="island_puzzle_trees">Trees</string>
+    <string name="island_puzzle_treehouse">Treehouse</string>
+    <string name="island_puzzle_maze">Maze</string>
+    <string name="island_puzzle_sound">Sound</string>
+    <string name="island_puzzle_secret">Secret</string>
+    <string name="island_puzzle_challenge">The Challenge</string>
+
+    <!-- Island art names -->
+    <string name="island_art_prayer">Prayer</string>
+    <string name="island_art_island_lady">Island Lady</string>
+    <string name="island_art_firestarter">Firestarter</string>
+    <string name="island_art_drowning_man">Drowning Man</string>
+    <string name="island_art_the_grail">The Grail</string>
+    <string name="island_art_juggler">Juggler</string>
+    <string name="island_art_mountain_top">Mountain Top</string>
+
+    <!-- Island obelisks names -->
+    <string name="island_obelisk_desert_name">Desert Obelisk</string>
+    <string name="island_obelisk_monastery_name">Monastery Obelisk</string>
+    <string name="island_obelisk_treehouse_name">Treehouse Obelisk</string>
+    <string name="island_obelisk_river_name">River Obelisk</string>
+    <string name="island_obelisk_quarry_name">Quarry Obelisk</string>
+    <string name="island_obelisk_town_name">Town Obelisk</string>
+
+</resources>

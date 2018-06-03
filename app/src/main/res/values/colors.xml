@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/sky_blue</color>
+    <color name="colorPrimaryDark">@color/sea_blue</color>
+    <color name="colorAccent">@color/temple_yellow</color>
+
+    <color name="card_view_background">@color/temple_yellow</color>
+    <color name="tab_text_color">@color/cloud_gray</color>
+
+    <color name="sky_blue">#3489AE</color>
+    <color name="sea_blue">#1C678A</color>
+    <color name="temple_yellow">#FAF1C6</color>
+    <color name="cloud_gray">#CBD5D8</color>
+
+</resources>

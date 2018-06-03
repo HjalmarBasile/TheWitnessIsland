@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="fragment_background_alpha" format="float" type="dimen">0.7</item>
+    <dimen name="card_view_margin">16dp</dimen>
+    <dimen name="card_view_corner_radius">16dp</dimen>
+    <dimen name="list_item_height">240dp</dimen>
+</resources>

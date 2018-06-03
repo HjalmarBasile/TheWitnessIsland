@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/outer_relative_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/fragment_background"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:alpha="@dimen/fragment_background_alpha"
+        android:contentDescription="@string/fragment_background"
+        android:scaleType="centerCrop"
+        tools:src="@drawable/island1" />
+
+    <ListView
+        android:id="@+id/place_list_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:divider="@null"
+        android:drawSelectorOnTop="true"
+        android:orientation="vertical" />
+
+</RelativeLayout>
